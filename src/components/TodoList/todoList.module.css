@@ -1,0 +1,19 @@
+.boxWrapper {
+    background: red;
+}
+
+.todoWrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.iconsWrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 7%;
+}
+
+.isDone {
+    background: mediumpurple;
+}
